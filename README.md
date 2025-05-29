@@ -17,7 +17,6 @@ As a Technical Author at Akkodis (Oct 2022 – Feb 2025), created and standardiz
 - **Tools**: Jupyter Notebook, VS Code, Excel  
 - **Cloud Platforms**: AWS, GCP  
 - **Other Skills**: DAX, Power Query, Sanic (Beginner), Technical Writing
-<br>
 
 ## Important Links
 - **Revati L Yakkundi Resume** - [Data Analyst Resume](https://drive.google.com/file/d/18leqlikosCG0_LDqXdPGDOiEk8FvJS4u/view?usp=drive_link)<br>
