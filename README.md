@@ -19,11 +19,11 @@ As a Technical Author at Akkodis (Oct 2022 – Feb 2025), created and standardiz
 - **Cloud Platforms**: AWS, GCP  
 - **Other Skills**: DAX, Power Query, Sanic (Beginner), Technical Writing
 <br>
-<br>
+
 ## Important Links
 <br>
-- **Revati L Yakkundi Resume** - [Data Analyst Resume](https://drive.google.com/file/d/18leqlikosCG0_LDqXdPGDOiEk8FvJS4u/view?usp=drive_link)
-- **The Complete SQL Bootcamp** - [Udemy Certificate](https://drive.google.com/file/d/1W_SXehNGrk48g1p89eWfl0rg-0Akq8Q0/view?usp=drive_link)
+- **Revati L Yakkundi Resume** - [Data Analyst Resume](https://drive.google.com/file/d/18leqlikosCG0_LDqXdPGDOiEk8FvJS4u/view?usp=drive_link)<br>
+- **The Complete SQL Bootcamp** - [Udemy Certificate](https://drive.google.com/file/d/1W_SXehNGrk48g1p89eWfl0rg-0Akq8Q0/view?usp=drive_link)<br>
 <br>
 <br>
 ## 🌐 Connect with Me
