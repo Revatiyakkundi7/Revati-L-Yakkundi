@@ -6,11 +6,11 @@
 <br>
 A detail-oriented **Data Analyst** with 2.7+ years of experience in technical documentation and analytics. Passionate about transforming raw data into meaningful insights using **Python, SQL, Power BI**, and strong EDA skills.
 <br>
+<br>
 As a Technical Author at Akkodis (Oct 2022 – Feb 2025), created and standardized Airbus aircraft maintenance manuals, improved document, and reduced review cycles by ~20% through historical data analysis.
 <br>
 ## 🔧 Skills & Tools
 <br>
-
 - **Data Analyst**: Python, SQL, Power Query  
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Data Visualization**: Power BI, Matplotlib, Seaborn  
@@ -20,24 +20,22 @@ As a Technical Author at Akkodis (Oct 2022 – Feb 2025), created and standardiz
 - **Other Skills**: DAX, Power Query, Sanic (Beginner), Technical Writing
 <br>
 <br>
-
 ## Important Links
 <br>
-
 - **Revati L Yakkundi Resume** - [Data Analyst Resume](https://drive.google.com/file/d/18leqlikosCG0_LDqXdPGDOiEk8FvJS4u/view?usp=drive_link)
 - **The Complete SQL Bootcamp** - [Udemy Certificate](https://drive.google.com/file/d/1W_SXehNGrk48g1p89eWfl0rg-0Akq8Q0/view?usp=drive_link)
 <br>
-
+<br>
 ## 🌐 Connect with Me
 <br>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/revati-yakkundi-682ab51aa/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" style="margin-right: 15px;" />
   </a>
   <a href="mailto:yakkundirevati7@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" alt="Gmail" style="margin-right: 15px;" />
   </a>
   <a href="https://wa.me/917259670396" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" alt="WhatsApp" style="margin-right: 15px;" />
   </a>
 </p>
