@@ -10,7 +10,6 @@ A detail-oriented **Data Analyst** with 2.7+ years of experience in technical do
 As a Technical Author at Akkodis (Oct 2022 – Feb 2025), created and standardized Airbus aircraft maintenance manuals, improved document, and reduced review cycles by ~20% through historical data analysis.
 <br>
 ## 🔧 Skills & Tools
-<br>
 - **Data Analyst**: Python, SQL, Power Query  
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Data Visualization**: Power BI, Matplotlib, Seaborn  
@@ -21,11 +20,10 @@ As a Technical Author at Akkodis (Oct 2022 – Feb 2025), created and standardiz
 <br>
 
 ## Important Links
-<br>
 - **Revati L Yakkundi Resume** - [Data Analyst Resume](https://drive.google.com/file/d/18leqlikosCG0_LDqXdPGDOiEk8FvJS4u/view?usp=drive_link)<br>
 - **The Complete SQL Bootcamp** - [Udemy Certificate](https://drive.google.com/file/d/1W_SXehNGrk48g1p89eWfl0rg-0Akq8Q0/view?usp=drive_link)<br>
 <br>
-<br>
+
 ## 🌐 Connect with Me
 <br>
 <p align="left">
