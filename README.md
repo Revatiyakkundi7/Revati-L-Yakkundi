@@ -18,10 +18,15 @@ As a Technical Author at Akkodis (Oct 2022 – Feb 2025), created and standardiz
 - **Cloud Platforms**: AWS, GCP  
 - **Other Skills**: DAX, Power Query, Sanic (Beginner), Technical Writing
 
-## Important Links
-- **Revati L Yakkundi Resume** - [Data Analyst Resume](https://drive.google.com/file/d/18leqlikosCG0_LDqXdPGDOiEk8FvJS4u/view?usp=drive_link)<br>
-- **The Complete SQL Bootcamp** - [Udemy Certificate](https://drive.google.com/file/d/1W_SXehNGrk48g1p89eWfl0rg-0Akq8Q0/view?usp=drive_link)<br>
-<br>
+## 🔗 Important Links
+- **Revati L Yakkundi Resume** - [Data Analyst Resume](https://drive.google.com/file/d/18leqlikosCG0_LDqXdPGDOiEk8FvJS4u/view?usp=drive_link)
+- **The Complete SQL Bootcamp** - [Udemy Certificate](https://drive.google.com/file/d/1W_SXehNGrk48g1p89eWfl0rg-0Akq8Q0/view?usp=drive_link)
+- **Blinkit-Analysis** - [Blinkit Sales Analysis Project](https://github.com/Revatiyakkundi7/Blinkit-Analysis.git)
+- **Uber-data-Analysis** - [Uber Data Analysis Project](https://github.com/Revatiyakkundi7/Uber-data-Analysis.git)
+- **Flight-Price-EDA** -  [Flight Price EDA Project](https://github.com/Revatiyakkundi7/FLIGHT-PRICE-EDA)
+- **Car-Sales-Prediction** - [Car-Sales-Prediction Project](https://github.com/Revatiyakkundi7/Car-Sales-Prediction.git)
+- **Bitcoin-Data-Analysis** - [Bitcoin-Data-Analysis Project](https://github.com/Revatiyakkundi7/Bitcoin-Data-Analysis.git)
+
 ## 🌐 Connect with Me
 <br>
 <p align="left">
